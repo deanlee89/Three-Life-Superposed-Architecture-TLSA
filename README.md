@@ -188,4 +188,4 @@ MIT License — Copyright (c) 2026 Three-Life Project
 ---
 
 *"道生一，一生二，二生三，三生万物" — 道德经（帛书本）*
-*（内容由AI生成，仅供参考）*
+
