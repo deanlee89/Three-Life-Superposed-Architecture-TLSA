@@ -1,13 +1,4 @@
 ---
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: b133ffaef69dc1a0a13c7cb85ca73764_1298d957769711f1b3d35254007bceed
-    ReservedCode1: a7u+Vt9Tx5cVilq9y1z1T9zhq8iu4/WbfISPrK7DAg3lb/QyESzqhTTMH1tyUmq/F7EXSiQy3kh+zPu9/k/ACgpAXoR7c88YhanJHwDcIFM4faI0dRAqGjkHpnZXn/JQVd3I3y3bZ1nGjxQFgqLPC0e/CrRt5Za5F6wNmP5fxwB9UrZk49puAqoM+hw=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: b133ffaef69dc1a0a13c7cb85ca73764_1298d957769711f1b3d35254007bceed
-    ReservedCode2: a7u+Vt9Tx5cVilq9y1z1T9zhq8iu4/WbfISPrK7DAg3lb/QyESzqhTTMH1tyUmq/F7EXSiQy3kh+zPu9/k/ACgpAXoR7c88YhanJHwDcIFM4faI0dRAqGjkHpnZXn/JQVd3I3y3bZ1nGjxQFgqLPC0e/CrRt5Za5F6wNmP5fxwB9UrZk49puAqoM+hw=
----
 
 # 三生 (Three-Life): 全新计算范式探索
 
