@@ -1,13 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191110102MACQD9K64018705
-    ProduceID: 1501257160728203_0/project_7650134860161384714-files/三生架构_vs_EMCore_对比分析.md
-    ReservedCode1: ""
-    ContentPropagator: 001191110102MACQD9K64028705
-    PropagateID: 1501257160728203#1782680335088
-    ReservedCode2: ""
----
 # 三生叠加态 vs EM-Core 架构对比分析
 
 > **日期**: 2026-06-29  
@@ -127,4 +117,3 @@ AIGC:
 
 ---
 
-> 本内容由 Coze AI 生成，请遵循相关法律法规及《人工智能生成合成内容标识办法》使用与传播。

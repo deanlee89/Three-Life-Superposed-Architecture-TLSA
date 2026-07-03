@@ -1,0 +1,48 @@
+{
+  "mnist": {
+    "Sansheng-4Layer": {
+      "name": "\u4e09\u751f\u67b6\u67844\u5c42",
+      "param_count": 155690,
+      "train_loss": 0.05476671067878639,
+      "train_acc": 98.2537037037037,
+      "val_loss": 0.08042908245895772,
+      "val_acc": 97.5,
+      "test_loss": 0.07629746924555283,
+      "test_acc": 97.69,
+      "train_time": 83.10826134681702
+    },
+    "MLP": {
+      "name": "MLP\u57fa\u51c6",
+      "param_count": 302218,
+      "train_loss": 0.0758861114747681,
+      "train_acc": 97.5537037037037,
+      "val_loss": 0.07744297928157005,
+      "val_acc": 97.48333333333333,
+      "test_loss": 0.0700716427645257,
+      "test_acc": 97.78,
+      "train_time": 83.59898829460144
+    },
+    "CNN": {
+      "name": "CNN\u57fa\u51c6",
+      "param_count": 423242,
+      "train_loss": 0.017074169686794618,
+      "train_acc": 99.44074074074074,
+      "val_loss": 0.024966060406865276,
+      "val_acc": 99.33333333333333,
+      "test_loss": 0.026264231804678368,
+      "test_acc": 99.2,
+      "train_time": 477.1319601535797
+    },
+    "TensorNetwork": {
+      "name": "\u6807\u51c6\u5f20\u91cf\u7f51\u7edc",
+      "param_count": 26442,
+      "train_loss": 0.12290824252352896,
+      "train_acc": 96.33148148148148,
+      "val_loss": 0.17491959574374746,
+      "val_acc": 94.48333333333333,
+      "test_loss": 0.15425265769038018,
+      "test_acc": 95.17,
+      "train_time": 48.41993522644043
+    }
+  }
+}

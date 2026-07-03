@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore generated benchmark artifacts and dataset cache
+data/
+benchmark_results.json
+benchmark_text_report.txt
+benchmark_report.md
+accuracy_comparison.png
+param_efficiency.png
+speed_comparison.png
+benchmark_run.log
